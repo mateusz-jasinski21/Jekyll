@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /Resume/
 ---
-
-Welcome to my site. My name is Mateusz and I am 3rd Year Computer Science Student & Software Engineering
-
-
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

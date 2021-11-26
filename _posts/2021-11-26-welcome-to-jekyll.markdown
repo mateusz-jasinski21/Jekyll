@@ -27,7 +27,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 My Family:
 
-[My helpful screenshot](/assets/P1.jpg)
+![My helpful screenshot](https://mateusz-jasinski21.github.io/Jekyll/assets/P1.jpg)
+![useful image]({{https://mateusz-jasinski21.github.io}}/assets/P1.png)
+
 Mushroom 1, Mushroom 2 and 3
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
